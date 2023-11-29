@@ -37,7 +37,7 @@ You can pause this script at anytime by pressing F12.
 Do you want to proceed with this script?
 )
 
-IfMsgBox No, exitapp ;pressing cancel will exit your program. using "Msgbox, 65,(Title), (text)
+IfMsgBox No, exitapp ;pressing cancel will exit your program.
 buttonOK:
 
 ;Exit conditions
