@@ -1,5 +1,5 @@
 # Emergency teleport
-##https://github.com/tactics-osrs/Emergencytab/blob/main/Emergency%20Teleport.exe
+# https://github.com/tactics-osrs/Emergencytab/blob/main/Emergency%20Teleport.exe
 Written in AutoHotkey for Roat Pkz RSPS.
 
 For learning and educational purposes only.
