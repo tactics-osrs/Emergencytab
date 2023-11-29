@@ -1,5 +1,7 @@
-# Emergencytab
+# Emergency teleport
 Written in AutoHotkey for Roat Pkz RSPS.
+
+For learning and educational purposes only.
 
 
 
